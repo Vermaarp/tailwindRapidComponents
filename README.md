@@ -1,2 +1,2 @@
 # tailwindRapidComponents
-TailwindRapidComponents is an open-source, free-to-use collection of UI components for Tailwind CSS, crafted by developers for developers. 
+an Open-source UI components Repo for Tailwind CSS, powered by Next.js, React, and designed for developer efficiency. Ideal for modern, responsive web interfaces.
