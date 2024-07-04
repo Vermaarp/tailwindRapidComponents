@@ -12,23 +12,23 @@ export const cardsData: CardData[] = [
   {
     id: 1,
     image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F2400%2F0*hDAyhnOx767w5qma.jpg&f=1&nofb=1&ipt=9a370ada65c66207e8e423217a1fba2b1afe658c3f07ca375a387f737b465089&ipo=images",
-    title: "Card 1 Title",
+    title: "Header Type 1",
     content: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod accusamus ",
-    link: "/card1"
+    link: "headers/header-one"
   },
   {
     id: 2,
     image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F2400%2F0*hDAyhnOx767w5qma.jpg&f=1&nofb=1&ipt=9a370ada65c66207e8e423217a1fba2b1afe658c3f07ca375a387f737b465089&ipo=images",
-    title: "Card 2 Title",
+    title: "Header Type 2",
     content: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod accusamus ",
-    link: "/card2"
+    link: "headers/header-two"
   },
   {
     id: 3,
     image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F2400%2F0*hDAyhnOx767w5qma.jpg&f=1&nofb=1&ipt=9a370ada65c66207e8e423217a1fba2b1afe658c3f07ca375a387f737b465089&ipo=images",
-    title: "Card 3 Title",
+    title: "Header Type 3",
     content: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod accusamus ",
-    link: "/card3"
+    link: "/cards/glass-card"
   },
   {
     id: 4,
